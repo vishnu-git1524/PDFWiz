@@ -49,7 +49,7 @@ def ChatPDF(text):
         ask_question()
 
 def main():
-    st.set_page_config(page_title="Ask ur PDF",
+    st.set_page_config(page_title="PDFWiz",
                        page_icon="📄")
 
     hide_st_style = """
